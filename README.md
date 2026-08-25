@@ -106,6 +106,10 @@ cd mobileapp
 npm install
 ```
 
+```bash
+npx expo install expo-asset
+```
+
 **3. Configure the TMDB API token**
 
 Copy the example environment file and add your token:
